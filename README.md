@@ -7,11 +7,17 @@ Dataset
 I performed a full data cleaning pipeline
 
 1.Load data
+
 2.Handle invalid values
+
 3.Convert data types
+
 4.Fill missing values
+
 5.Fix inconsistencies
+
 6.Create new features
+
 7.Validate results
 
 <img width="1920" height="1020" alt="Screenshot 2026-05-03 145249" src="https://github.com/user-attachments/assets/c1fcde6f-206f-4a2f-a693-b5a7c092f125" />
